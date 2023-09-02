@@ -1,0 +1,14 @@
+body {
+    font-family: monospace;
+    background-color: lightgreen;
+}
+
+.main {
+    padding-top: 160px;
+}
+
+#text-input {
+    height: 40px;
+    border-radius: 1em;
+    border: none;
+}
